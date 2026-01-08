@@ -1,8 +1,9 @@
 ## Find your name and write a fun fact about yourself! 
 
-EXAMPLE
+#### EXAMPLE
 Nandeenee Singh : I played the violin for 7 years (I was not good). 
 
+__________________________________________________________________
 Aarav Raina : 
 
 Alex Saidov : 
